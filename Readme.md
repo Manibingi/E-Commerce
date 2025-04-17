@@ -34,9 +34,12 @@ npm install
 ```
 
 **Create .env file**:
+
+```env
 MONGODB_URI=mongodb://localhost:27017/ecommerce
 JWT_SECRET=your_jwt_secret
 PORT=your_port
+```
 
 **Start the backend**:
 
@@ -52,7 +55,10 @@ npm install
 ```
 
 **Create .env file**:
+
+```env
 VITE_API_URL=your_backend_url
+```
 
 **Start the frontend**:
 
